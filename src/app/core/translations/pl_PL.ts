@@ -164,4 +164,6 @@ export default {
   MESSAGE_SENT_ALERT_HEADER: 'Twoja odpowiedź została wysłana do osoby pomagającej',
   MESSAGE_SENT_ALERT_CONTENT: 'Potwierdzenie wysłania przesłaliśmy na Twój e-mail.',
   ERROR_MIN_DATE: 'Wprowadź późniejszą datę.',
+  API_HTTP_ERROR_SESSION_OR_PERMISSION: 'Sesja wygasła lub nie masz uprawnień. Odśwież stronę.',
+  API_HTTP_ERROR_SERVER_FAILED_CONNECTION: 'Błąd komunikacji z serwerem, spróbuj ponownie później.',
 };
